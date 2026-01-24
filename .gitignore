@@ -1,0 +1,10 @@
+
+.venv/
+
+test.ipynb
+data/json_files/
+
+/*.json
+
+
+gemma_lora_out/
