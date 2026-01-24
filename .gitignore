@@ -1,6 +1,6 @@
 
 .venv/
-
+.env
 test.ipynb
 data/json_files/
 
